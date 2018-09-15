@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2018-09-15T14:44:29.513-04:00
-  initializedAtString: 2018-09-15T14:44:29.513-04:00
+  lastUpdatedAtString: 2018-09-15T15:02:10.180-04:00
+  initializedAtString: 2018-09-15T15:02:10.180-04:00
   currentGitRemote:
     name: origin
     url: https://github.com/eaberman/HackMITVR.git
@@ -34,4 +34,4 @@ MonoBehaviour:
   currentConfigRemote:
     name: origin
     url: https://github.com/eaberman/HackMITVR.git
-  currentHead: a5ef8de
+  currentHead: 5f2d301

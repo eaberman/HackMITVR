@@ -12,11 +12,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2018-09-15T14:37:12.277-04:00
-  initializedAtString: 2018-09-15T14:36:40.789-04:00
+  lastUpdatedAtString: 2018-09-15T14:50:20.840-04:00
+  initializedAtString: 2018-09-15T14:46:13.411-04:00
   localBranches:
-  - name: assign2-basic
-    tracking: origin/assign2-basic
   - name: master
     tracking: origin/master
   remoteBranches:
@@ -26,7 +24,7 @@ MonoBehaviour:
     tracking: '[None]'
   remotes:
   - name: origin
-    url: https://github.com/eaberman/HackMITVR
+    url: https://github.com/eaberman/HackMITVR.git
     login: 
     user: 
     host: 
@@ -34,18 +32,12 @@ MonoBehaviour:
     token: 
   localConfigBranches:
     keys:
-    - assign2-basic
     - master
     values:
-    - name: assign2-basic
-      remote:
-        name: origin
-        url: https://github.com/eaberman/HackMITVR
-      trackingBranch: assign2-basic
     - name: master
       remote:
         name: origin
-        url: https://github.com/eaberman/HackMITVR
+        url: https://github.com/eaberman/HackMITVR.git
       trackingBranch: master
   remoteConfigBranches:
     keys:
@@ -59,16 +51,16 @@ MonoBehaviour:
       - name: HEAD
         remote:
           name: origin
-          url: https://github.com/eaberman/HackMITVR
+          url: https://github.com/eaberman/HackMITVR.git
         trackingBranch: 
       - name: master
         remote:
           name: origin
-          url: https://github.com/eaberman/HackMITVR
+          url: https://github.com/eaberman/HackMITVR.git
         trackingBranch: 
   configRemotes:
     keys:
     - origin
     values:
     - name: origin
-      url: https://github.com/eaberman/HackMITVR
+      url: https://github.com/eaberman/HackMITVR.git
