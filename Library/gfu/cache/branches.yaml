@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1666186674, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 2
+  lastUpdatedAtString: 2018-09-15T14:37:12.277-04:00
+  initializedAtString: 2018-09-15T14:36:40.789-04:00
+  localBranches:
+  - name: assign2-basic
+    tracking: origin/assign2-basic
+  - name: master
+    tracking: origin/master
+  remoteBranches:
+  - name: origin/HEAD
+    tracking: '[None]'
+  - name: origin/master
+    tracking: '[None]'
+  remotes:
+  - name: origin
+    url: https://github.com/eaberman/HackMITVR
+    login: 
+    user: 
+    host: 
+    function: 0
+    token: 
+  localConfigBranches:
+    keys:
+    - assign2-basic
+    - master
+    values:
+    - name: assign2-basic
+      remote:
+        name: origin
+        url: https://github.com/eaberman/HackMITVR
+      trackingBranch: assign2-basic
+    - name: master
+      remote:
+        name: origin
+        url: https://github.com/eaberman/HackMITVR
+      trackingBranch: master
+  remoteConfigBranches:
+    keys:
+    - origin
+    subKeys:
+    - Values:
+      - HEAD
+      - master
+    subKeyValues:
+    - Values:
+      - name: HEAD
+        remote:
+          name: origin
+          url: https://github.com/eaberman/HackMITVR
+        trackingBranch: 
+      - name: master
+        remote:
+          name: origin
+          url: https://github.com/eaberman/HackMITVR
+        trackingBranch: 
+  configRemotes:
+    keys:
+    - origin
+    values:
+    - name: origin
+      url: https://github.com/eaberman/HackMITVR
