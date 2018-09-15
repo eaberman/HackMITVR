@@ -12,6 +12,120 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 5
-  lastUpdatedAtString: 2018-09-15T15:04:50.772-04:00
+  lastUpdatedAtString: 2018-09-15T15:19:22.653-04:00
   initializedAtString: 2018-09-15T15:02:10.544-04:00
-  entries: []
+  entries:
+  - path: Assembly-CSharp.csproj
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor.csproj
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Assembly-CSharp-Editor.csproj
+    projectPath: Assembly-CSharp-Editor.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp-Editor-firstpass.csproj
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Assembly-CSharp-Editor-firstpass.csproj
+    projectPath: Assembly-CSharp-Editor-firstpass.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/assetDatabase3
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/assetDatabase3
+    projectPath: Library/assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/branches.yaml
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/gfu/cache/branches.yaml
+    projectPath: Library/gfu/cache/branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/gfu/cache/gitstatusentries.yaml
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/gfu/cache/gitstatusentries.yaml
+    projectPath: Library/gfu/cache/gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    projectPath: Library/ScriptAssemblies/BuiltinAssemblies.stamp
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+    projectPath: Library/ShaderCache/4/462d2c5a8d4ecc7880c5e0c9521b9b42.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+    projectPath: Library/ShaderCache/4/4a9449fff45b1cdff165435ee1209c34.bin
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library/shadercompiler-UnityShaderCompiler0.log
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Library/shadercompiler-UnityShaderCompiler0.log
+    projectPath: Library/shadercompiler-UnityShaderCompiler0.log
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: ProjectSettings/ProjectSettings.asset
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/ProjectSettings/ProjectSettings.asset
+    projectPath: ProjectSettings/ProjectSettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    projectPath: Temp/ProcessJobs/e9a6970f79cd12d8b075e7d72f1b07cb.bakert
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-1c40fd9f392184158bae79cf6b64d021
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-1c40fd9f392184158bae79cf6b64d021
+    projectPath: Temp/UnityTempFile-1c40fd9f392184158bae79cf6b64d021
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-6960c137f2b8c4caf88e616ffc88816f
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-6960c137f2b8c4caf88e616ffc88816f
+    projectPath: Temp/UnityTempFile-6960c137f2b8c4caf88e616ffc88816f
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-a275ed7cf1afd4fe8aa17912754b4b85
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-a275ed7cf1afd4fe8aa17912754b4b85
+    projectPath: Temp/UnityTempFile-a275ed7cf1afd4fe8aa17912754b4b85
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-b0e4660923076455a8ac8d9b33603687
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-b0e4660923076455a8ac8d9b33603687
+    projectPath: Temp/UnityTempFile-b0e4660923076455a8ac8d9b33603687
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-c24a4f15a131a4633a4dd61d9c3094ab
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-c24a4f15a131a4633a4dd61d9c3094ab
+    projectPath: Temp/UnityTempFile-c24a4f15a131a4633a4dd61d9c3094ab
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-d3da06d5df5864e2cb6689f92844557b
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-d3da06d5df5864e2cb6689f92844557b
+    projectPath: Temp/UnityTempFile-d3da06d5df5864e2cb6689f92844557b
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp/UnityTempFile-fcdf4a224e498457ab0c4b98baf42362
+    fullPath: /Users/battogtokhb/Desktop/HackMITVR/Temp/UnityTempFile-fcdf4a224e498457ab0c4b98baf42362
+    projectPath: Temp/UnityTempFile-fcdf4a224e498457ab0c4b98baf42362
+    originalPath: 
+    status: 1
+    staged: 0
